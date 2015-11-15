@@ -6,7 +6,11 @@ var REPLACEMENTS = {
     'terrorista': 'covarde',
     'Terrorista': 'Covarde',
     'terrorismo': 'covardia',
-    'Terrorismo': 'Covardia'
+    'Terrorismo': 'Covardia',
+    'terroriste': 'lâche',
+    'Terroriste': 'Lâche',
+    'Terrorisme': 'Lâcheté',
+    'terrorisme': 'lâcheté',
 };
 
 var replaceTerror = function(textNode) {
